@@ -1,0 +1,6 @@
+## WEBSITE DA AGÊNCIA TRENDOR
+
+** Headless - WordPress
+** SSR - NextJS
+
+## COMO REALIZAR A INSTALAÇÃO
